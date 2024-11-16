@@ -1,4 +1,4 @@
-<h1 align="center">Tic-Tac-Toe Game UI ❌⭕ </h1>
+<h1 align="center">Tic-Tac-Toe Game ❌⭕ </h1>
 
 ## Project 🎯 
 
