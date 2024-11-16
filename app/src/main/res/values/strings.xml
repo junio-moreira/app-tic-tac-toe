@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="user1">"No ads"</string>
+    <string name="user2">"No ads"</string>
+    <string name="nome_user1">You</string>
+    <string name="nome_user2">Droid</string>
+    <string name="wins">Wins</string>
+    <string name="tie">Tie</string>
+    <string name="lost">Lost</string>
+    <string name="zero">0</string>
+    <string name="reset">Reset</string>
+</resources>

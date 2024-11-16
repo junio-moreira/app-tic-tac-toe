@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1e2a45</color>
+    <color name="colorPrimaryDark">#09101d</color>
+    <color name="colorPrimaryLight">#3c4a65</color>
+    <color name="colorPrimaryLight2">#f5f4f9</color>
+    <color name="colorSecondary">#ff9800</color>
+    <color name="colorSecondaryDark">#e68a00</color>
+    <color name="colorSecondaryLight">#ffae42</color>
+    <color name="textColorDark">#000000</color>
+    <color name="textColorLight">#ffffff</color>
+    <color name="colorBackground">#0f1425</color>
+    <!--    <color name="colorSecundaryYellow">#fcc414</color>-->
+    <color name="colorSecundaryYellow">#f0a513</color>
+
+    <!-- Novo cinza claro -->
+    <color name="colorLightGray">#D3D3D3</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="amarelo">#FFFF00</color>
+</resources>
